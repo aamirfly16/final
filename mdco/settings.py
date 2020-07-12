@@ -25,7 +25,7 @@ SECRET_KEY = 'irk^h^3#s^j*(d13ycte*ma=11^fo61bf0ehhfi4(=&#*f7#rq'
 # SECURITY WARNING: don't run with debug turned on in production!
 DEBUG = True
 
-ALLOWED_HOSTS = ["127.0.0.1"]
+ALLOWED_HOSTS = ['.bangarajagatu.com']
 
 # Application definition
 
